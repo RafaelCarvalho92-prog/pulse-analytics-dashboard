@@ -60,11 +60,9 @@ src/
 
 ## Screenshots
 
-> _Placeholder: add screenshots of Overview, Customers (with the drawer open), Revenue and Settings in both themes._
+![Pulse Analytics overview with KPI cards and revenue chart](docs/overview.jpg)
 
-| Overview | Customers | Revenue |
-| -------- | --------- | ------- |
-| _tbd_    | _tbd_     | _tbd_   |
+Live demo with every page: https://rafaelcarvalho.dev/saas-dashboard/ (any email and password sign you in).
 
 ## Getting started
 
